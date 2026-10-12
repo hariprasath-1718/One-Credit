@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "git": {
+      "command": "python",
+      "args": [
+        "-m",
+        "mcp_server_git",
+        "--repository",
+        "d:\\One credit FAST API"
+      ],
+      "env": {
+        "GIT_PYTHON_GIT_EXECUTABLE": "C:\\Program Files\\Git\\cmd\\git.exe"
+      }
+    }
+  }
+}
